@@ -9,7 +9,7 @@ The project is designed to demonstrate core **Next.js App Router concepts**, inc
 ## Live Demo
 
 **Live Website:**
-YOUR_VERCEL_DEPLOYMENT_URL
+https://study-hub-two-sigma.vercel.app/
 
 ---
 
