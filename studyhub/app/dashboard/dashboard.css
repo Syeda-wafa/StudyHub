@@ -1,0 +1,66 @@
+.dashboard-page {
+  min-height: 100vh;
+  background: #fafafa;
+}
+
+/* Header */
+
+.dashboard-header {
+  background: #18181b;
+  color: white;
+  padding: 65px 24px;
+}
+
+.dashboard-header-container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.dashboard-label {
+  color: #a78bfa;
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+}
+
+.dashboard-title {
+  margin-top: 12px;
+  font-size: 48px;
+  font-weight: 800;
+  letter-spacing: -1px;
+}
+
+.dashboard-description {
+  margin-top: 16px;
+  max-width: 650px;
+  color: #d4d4d8;
+  font-size: 17px;
+  line-height: 1.7;
+}
+
+/* Section */
+
+.dashboard-section {
+  padding: 60px 24px 80px;
+}
+
+.dashboard-container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* Responsive */
+
+@media (max-width: 600px) {
+  .dashboard-header {
+    padding: 50px 20px;
+  }
+
+  .dashboard-title {
+    font-size: 36px;
+  }
+
+  .dashboard-section {
+    padding: 45px 20px 60px;
+  }
+}
